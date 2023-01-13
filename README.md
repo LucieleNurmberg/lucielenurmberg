@@ -8,7 +8,7 @@
   </div><br/>
 
 
-![LucieleNurmberg GitHub stats](https://github-readme-stats.vercel.app/api?username=LucieleNurmberg&show_icons=true&theme=dracula&count_private=true)
+![LucieleNurmberg GitHub stats](https://github-readme-stats.vercel.app/api?username=LucieleNurmberg&show_icons=true&theme=radical)
 
 
 💬 Contate-me pelas redes socias: 
